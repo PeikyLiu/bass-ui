@@ -1,0 +1,5 @@
+/node_modules
+packages/docs/node_modules
+packages/docs/.vitepress/cache
+packages/ui/node_modules
+packages/ui/dist
